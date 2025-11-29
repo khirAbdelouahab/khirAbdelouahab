@@ -96,14 +96,12 @@ I thrive in collaborative environments where learning happens through doing. At 
 ⚛️ Developed a custom frontend framework
 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
+
 <div align="center">
 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
 Currently seeking opportunities to apply my skills in real-world projects and contribute to innovative development teams!
 </div>
 
 <div align="center">
-  ⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+  ⭐️ From [khirAbdelouahab](https://github.com/khirAbdelouahab)
 </div>
