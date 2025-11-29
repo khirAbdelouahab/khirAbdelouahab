@@ -53,13 +53,13 @@ Features: Component-based architecture, state management
 
 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khirAbdelouahab&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khirAbdelouahab&theme=tokyonight" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khirAbdelouahab&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 💡 What I'm Building With
 javascriptconst skills = {
