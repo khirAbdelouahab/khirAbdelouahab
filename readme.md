@@ -14,7 +14,7 @@ I'm on an exciting learning journey at **Zone01 Oujda**, where I'm mastering sof
 - 🌱 Learning through project-based challenges at Zone01
 - 👯 Love collaborating on innovative projects
 - 💬 Ask me about Java, Spring Boot, or full-stack development
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abdelouahab-khir)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abdelouahabkhir)
 - ⚡ Fun fact: I built a Bomberman game and my own mini React-like framework!
 
 <br/>
@@ -89,11 +89,11 @@ Built a lightweight framework inspired by React
 
 ```javascript
 const skills = {
-    backend: ["Java", "Spring Boot", "RESTful APIs", "Microservices", "Go"],
+    backend: ["Java", "Spring Boot", "RESTful APIs", "Go"],
     frontend: ["JavaScript", "HTML5", "CSS3", "Responsive Design"],
-    databases: ["PostgreSQL", "MySQL", "SQLite"],
+    databases: ["MySQL", "SQLite"],
     concepts: ["OOP", "Design Patterns", "Clean Code", "Agile"],
-    learning: ["Docker", "Kubernetes", "Cloud Services", "CI/CD"]
+    learning: ["Docker", "Postman"]
 };
 ```
 
@@ -124,7 +124,7 @@ I thrive in collaborative environments where learning happens through doing. At 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelouahab-khir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelouahabkhir)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khirAbdelouahab)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
